@@ -1,1 +1,4 @@
 CONTACT > email: aliahd.my.yorku.ca
+Contact:
+Email: Example@Example.com
+Phone: 111-222-3334
